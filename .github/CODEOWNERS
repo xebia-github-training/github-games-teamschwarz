@@ -1,0 +1,4 @@
+# CODEOWNERS file
+*.js @teamschwarz
+*.bash @teamschwarz
+*.sh @teamschwarz
